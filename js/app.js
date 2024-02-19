@@ -10,5 +10,5 @@ const PI = 3.1415;
 
 
 function saludar(){
-    alert(`texto: ${texto}; numero: ${numero}; pi: ${PI}`);
+    alert('Hola GitHub');
 }
